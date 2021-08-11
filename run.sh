@@ -17,9 +17,9 @@ HashIDSalt = kfIWhhcteuRACDnXtgkilGDgOdI8c6j2Prn9lUzossrOZn1pi46SXb80XFAaKMF3
 Type = mysql
 Port = 3306
 User = xlzt0hhg46b88gxb
-Password = 	ks2dwcw3qnsq1pae
-Host = 	u3r5w4ayhxzdrw87.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
-Name = 		z8jsmzs0bpj4fhjd
+Password = ks2dwcw3qnsq1pae
+Host = u3r5w4ayhxzdrw87.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+Name = z8jsmzs0bpj4fhjd
 TablePrefix = wd
 [Redis]
 Server = Redis地址：端口
